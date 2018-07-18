@@ -1,1 +1,1 @@
-print('Elli Dice v0.0.3 loaded')
+print('Elli Dice v0.0.4.1 loaded')

@@ -1,8 +1,8 @@
 ## Interface: 80000
 ## Title: Ellimecha Dice Of Evil
 ## Author: Zerasul
-## Version: 0.0.3
-## Notes: A simple 20 Slides Dice Simulator. Thanks to La Alta Torre.
+## Version: 0.0.4.1
+## Notes: A simple 20 Slides Dice Simulator. Thanks to Leyendas del Olvidado.
 
 DiceController.lua
 main.lua
