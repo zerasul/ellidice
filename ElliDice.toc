@@ -1,8 +1,8 @@
-## Interface: 90205
+## Interface: 90207
 ## Title: Ellimecha Dice Of Evil
 ## Author: Zerasul
-## Version: 0.0.14
-## Notes: A simple 20 Slides Dice Simulator. Thanks to my Friends Aelara & Ilmarith and remember SHA!!
+## Version: 0.0.15
+## Notes: A simple 20 Slides Dice Simulator. Thanks to Leyendas del Olvidado Guild!! (And of Course Sha & Jael) 
 
 DiceController.lua
 main.lua
